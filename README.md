@@ -8,37 +8,49 @@
 <br>
 
 ## Getting Started
-Clone the repository or download the source code to your local machine.
+<ul>
+  <li>Clone the repository or download the source code to your local machine.</li>
+  <li>Open the index.html file in your web browser.</li>
+  <li>You'll be greeted with a familiar layout resembling the Amazon homepage.</li>
+</ul>
+<br>
+<br>
 
-Open the index.html file in your web browser.
+## Features
 
-You'll be greeted with a familiar layout resembling the Amazon homepage.
+✅ Visual Resemblance: The website's design and layout closely resemble that of the Amazon website, providing a familiar and recognizable experience.
 
-Features
-Visual Resemblance: The website's design and layout closely resemble that of the Amazon website, providing a familiar and recognizable experience.
+✅ Simplified Structure: This project focuses on the front-end implementation using HTML and CSS, without any backend functionality like actual product listings, shopping cart, or user authentication.
+<br>
+<br>
+<br>
 
-Simplified Structure: This project focuses on the front-end implementation using HTML and CSS, without any backend functionality like actual product listings, shopping cart, or user authentication.
-
-Development
+## Development
 If you're interested in further developing this Amazon Clone website or enhancing its features, follow these steps:
+<ul>
+  <li>Fork the repository and clone it to your local machine.</li>
+  <li>Make your desired changes and improvements to the HTML and CSS code.</li>
+  <li>Test the changes to ensure they maintain the visual similarity to Amazon's design.</li>
+  <li>Consider adding interactivity using JavaScript to enhance the user experience if desired.</li>
+  <li>Create a pull request to submit your changes for review.</li>
+</ul>
+<br>
+<br>
 
-Fork the repository and clone it to your local machine.
-
-Make your desired changes and improvements to the HTML and CSS code.
-
-Test the changes to ensure they maintain the visual similarity to Amazon's design.
-
-Consider adding interactivity using JavaScript to enhance the user experience if desired.
-
-Create a pull request to submit your changes for review.
-
-Limitations
+## Limitations
 Please note that this project is a visual clone and does not have the actual functionality of an Amazon website. It's intended for educational purposes and to practice HTML and CSS skills.
+<br>
+<br>
 
-License
+## License
 This project is licensed under the MIT License. Feel free to use, modify, and distribute the code for personal or educational purposes. However, please be aware that this project is intended to replicate the visual style of Amazon, and any use should respect Amazon's intellectual property rights.
+<br>
+<br>
 
-Support
+## Support
 For any questions or suggestions related to this project, feel free to open an issue on the GitHub repository.
+<br>
+<br>
 
-Happy coding and design exploration with the Amazon Clone website! 🛍️🌐
+# Screenshots
+
