@@ -54,4 +54,5 @@ For any questions or suggestions related to this project, feel free to open an i
 
 # Screenshots
 ![1](https://github.com/iamabir04/Amazon-CSS-Clone-Project/assets/108453813/4202e12c-18e3-4341-b8ad-133d7eb0cf72)
+![2](https://github.com/iamabir04/Amazon-CSS-Clone-Project/assets/108453813/4ad19900-9234-47fa-b778-39bc365af38b)
 
