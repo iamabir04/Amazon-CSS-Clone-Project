@@ -1,11 +1,13 @@
 <h1 align="center">Amazon Clone Website Readme</h1>
 <br>
 
-<p>Welcome to the Amazon Clone website!
-  <br> <br>
+## Welcome to the Amazon Clone website!
+  <p>
   This project is a simple HTML and CSS implementation that replicates the style and appearance of the Amazon website. It's designed to mimic the visual elements and layout of Amazon, giving you a taste of the familiar online shopping experience.</p>
+<br>
+<br>
 
-Getting Started
+## Getting Started
 Clone the repository or download the source code to your local machine.
 
 Open the index.html file in your web browser.
