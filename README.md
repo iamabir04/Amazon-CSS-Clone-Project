@@ -42,7 +42,6 @@ Please note that this project is a visual clone and does not have the actual fun
 <br>
 <br>
 
-
 ## License
 This project is licensed under the MIT License. Feel free to use, modify, and distribute the code for personal or educational purposes. However, please be aware that this project is intended to replicate the visual style of Amazon, and any use should respect Amazon's intellectual property rights.
 <br>
